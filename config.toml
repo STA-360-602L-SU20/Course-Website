@@ -72,18 +72,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Gradescope"
   pre = "<i class=\"material-icons\">assignment</i>"
   url = "https://www.gradescope.com/courses/141314/assignments"
-#[[menu.main]]
-#  weight = 4
-#  identifier = "rstudio"
-#  name = "RStudio"
-#  pre = "<i class=\"material-icons\">cloud_queue</i>"
-#  url = "https://rstudio.cloud"
-#[[menu.main]]
-#  weight = 6
-#  identifier = "help"
-#  name = "Help"
-#  pre = "<i class=\"material-icons\">help</i>"
-#  url = "https://github.com/Sta199-S18/community/issues"
 
 
 [[menu.footer]]
